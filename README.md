@@ -1,1 +1,3 @@
-# HybridMind
+  
+![Diagram](diagram.png)
+  
