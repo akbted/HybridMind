@@ -1,0 +1,3 @@
+python-dotenv
+patlib
+psycopg2-binary
