@@ -14,5 +14,3 @@ class DBClient:
         return self.connection_pool.putconn(conn)
 
 db_client = DBClient(db_settings)
-conn = db_client.get_connection()
-db_client.release_connection(conn)
